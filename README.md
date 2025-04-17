@@ -11,13 +11,13 @@
     <h3><b>EDUCATION</b></h3>
     <hr>
     <ul>
-      <li><b>Er Perumal manimekalai College of Engineering - MCA</b>
+      <li><b>Er Perumal manimekalai College of Engineering - MCA</b><br>
       CGPA-80% | 2023-2025</li>
-      <li><b>St Joseph College of Arts and Science for Women - BCA</b>
+      <li><b>St Joseph College of Arts and Science for Women - BCA</b><br>
       CGPA-82% | 2019-2022</li>
-      <li><b>Government Girls Higher Secondary School - 12th</b>
+      <li><b>Government Girls Higher Secondary School - 12th</b><br>
       CGPA-78% | 2019</li>
-      <li><b>Government Girls Higher Secondary School - 10th</b>
+      <li><b>Government Girls Higher Secondary School - 10th</b><br>
       CGPA-90% | 2017</li> 
     </ul>
       <h3><b>MINI PROJECT</b></h3>
